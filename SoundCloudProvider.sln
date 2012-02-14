@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundCloudProvider", "SoundCloudProvider\SoundCloudProvider.csproj", "{CC6EC525-C3A4-454C-91BC-6E77CDFDC4F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundCloudTests", "SoundCloudTests\SoundCloudTests.csproj", "{76F24128-9BD4-4C26-9A0A-20FF462ED17D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundCloudProvider.Tests", "SoundCloudProvider\Tests\SoundCloudProvider.Tests.csproj", "{47EA0CAB-D3B2-4394-8A58-6FA52DD2995D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC6EC525-C3A4-454C-91BC-6E77CDFDC4F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC6EC525-C3A4-454C-91BC-6E77CDFDC4F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC6EC525-C3A4-454C-91BC-6E77CDFDC4F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC6EC525-C3A4-454C-91BC-6E77CDFDC4F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76F24128-9BD4-4C26-9A0A-20FF462ED17D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F24128-9BD4-4C26-9A0A-20FF462ED17D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F24128-9BD4-4C26-9A0A-20FF462ED17D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F24128-9BD4-4C26-9A0A-20FF462ED17D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47EA0CAB-D3B2-4394-8A58-6FA52DD2995D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47EA0CAB-D3B2-4394-8A58-6FA52DD2995D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47EA0CAB-D3B2-4394-8A58-6FA52DD2995D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47EA0CAB-D3B2-4394-8A58-6FA52DD2995D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
